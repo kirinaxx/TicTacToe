@@ -46,12 +46,12 @@ public class slTTTBoard
                 col = sc.nextInt();
 
                 if (row < 0 || row > 2 || col < 0 || col > 2) {
-                    System.out.println("You're out of board.\nEnter number between 0 and 2.\n Try again: ");
+                    System.out.println("You're out of board.\nEnter number between 0 and 2.\n Try again! ");
                     continue;
                 }
 
                 if (this.board[row][col] != '-') {
-                    System.out.println("This place is already taken.\n Try again: ");
+                    System.out.println("This place is already taken.\n Try again! ");
                     continue;
                 }
                 this.board[row][col] = o ? 'o' : 'x';

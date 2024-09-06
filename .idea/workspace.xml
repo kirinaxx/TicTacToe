@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c7b8304-c6ef-4355-817b-bfca736d6ffa" name="Changes" comment="Add Driver and create slTTTBoard.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mechanicsBE/slTTTBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/csc133Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mechanicsBE/slTTTBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mechanicsBE/slTTTBoard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725063402633</updated>
-      <workItem from="1725063403702" duration="7328000" />
+      <workItem from="1725063403702" duration="8749000" />
     </task>
     <task id="LOCAL-00001" summary="First pass on the game.">
       <option name="closed" value="true" />
@@ -82,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725578830562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Driver and create slTTTBoard.">
+      <option name="closed" value="true" />
+      <created>1725585123242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725585123242</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
